@@ -9,7 +9,6 @@
 <!--my introduction start-->
 
 <!-- The one on the left is [dirac-lee](https://github.com/dirac-lee), he will speak for me in the virtual world. -->
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
 - 🔭 I’m currently working on ORM framework GDAL, and more interesting project can be found at [My GitHub repos](https://github.com/dirac-lee?tab=repositories).
 - 🤔 Only one things make me moved. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
@@ -99,7 +98,7 @@ All open-source repo orted by stars. [here](https://github.com/dirac-lee?tab=rep
     
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
-| [AccANN](https://github.com/dirac-lee/GDAL) | <sub> An ORM framework based on GORM </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/dirac-lee/GDAL?style=flat-square&labelColor=black"/> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" title="Go"></code>|
+| [GDAL](https://github.com/dirac-lee/GDAL) | <sub> An ORM framework based on GORM </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/dirac-lee/GDAL?style=flat-square&labelColor=black"/> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" title="Go"></code>|
 
 
 🚧 **My Todoist Stats: ⬇️**
